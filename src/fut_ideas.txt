@@ -1,0 +1,8 @@
+Future Feature Ideas : 
+	1. Support for More Filetypes 
+	2. Line Numbers 
+	3. Auto Indent -> Indent new line to the same level as the previous line
+	4. Copy and paste -> Allow use of ctrl-c to copy and ctrl-v to paste
+	5. Config file -> read from a file about set options
+	6. Different modes like vim (insert and normal mode)
+	7. Use ncurses which is a library that takes care of low level terminal interaction for you....
